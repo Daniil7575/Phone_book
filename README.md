@@ -63,3 +63,5 @@ book.find({"Имя": "Иван", "Фамилия": "Иванов"})
 ```
 pip install -r requirements.txt
 ```
+
+P.S. Это можно было сделать с помощью pandas.
